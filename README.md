@@ -14,3 +14,7 @@ Here are the Google Colab links for Day One of the Python Fundamentals Bootcamp,
 <br>[Day 3 Lecture notebook with answers](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day3Lecture-answers.ipynb)
 <br>[Day 3 “Quiz”](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day3Quiz.ipynb)
 <br>[Day 3 “Quiz” with answers](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day3Quiz-answers.ipynb)
+
+
+
+<br><br>[Link to upcoming workshops for you](https://www.it.northwestern.edu/departments/it-services-support/research/research-events.html)
