@@ -19,7 +19,7 @@ Here are the Google Colab links for Day One of the Python Fundamentals Bootcamp,
 <br>[Day 4 Afternoon Lecture notebook](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day4afternoonLecture.ipynb)
 <br>[Day 4 Afternoon Game notebook](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day4afternoonGame.ipynb)
 
-<br>[Day 4 Morning Exercise Using Nested Dictionary](https://github.com/nuitrcs/pythonBootcamp_4Day/blob/a040952d60ab5a34ddda37251200ff15389792cc/day4morning_dict_solution_john.ipynb)
+<br>[Day 4 Morning Exercise Solution Using Nested Dictionary](https://github.com/nuitrcs/pythonBootcamp_4Day/blob/a040952d60ab5a34ddda37251200ff15389792cc/day4morning_dict_solution_john.ipynb)
 
 
 <br><br>[Link to upcoming workshops for you](https://www.it.northwestern.edu/departments/it-services-support/research/research-events.html)
