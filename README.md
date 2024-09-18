@@ -28,4 +28,4 @@ Here are the Google Colab links for Day One of the Python Fundamentals Bootcamp,
 <br><br><a href = "https://services.northwestern.edu/TDClient/30/Portal/Requests/ServiceDet?ID=93" target = "_blank">Request a free consultation (only if you are Northwestern affiliated)</a>
 <br><br><a href = "https://github.com/nuitrcs/NextStepsInPython" target = "_blank">Next Steps in Python (1hr long, free workshops)</a>
 <br><br><a href = "https://www.it.northwestern.edu/departments/it-services-support/research/" target = "_blank">Subscribe to our mailing list!</a>
-<br><br>If you use a lot of tabular data in your research. You might be interested in the Pandas package. We have upcoming workshops, but also you can access previous introductory materials [here](https://github.com/nuitrcs/pandas_intro).
+<br><br>If you use a lot of tabular data in your research. You might be interested in the Pandas package. We have upcoming workshops, but also you can access previous introductory materials <a href = "https://github.com/nuitrcs/pandas_intro">here</a>.
