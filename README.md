@@ -16,8 +16,10 @@ Here are the Google Colab links for Day One of the Python Fundamentals Bootcamp,
 <br>[Day 3 “Quiz” with answers](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day3Quiz-answers.ipynb)
 
 <br>For the morning of Day 4, we will not be working in a lecture notebook. Check out the [day4morning.txt](https://github.com/nuitrcs/pythonBootcamp_4Day/blob/main/day4morning.txt) file for instructions.
+<!--
 <br>[Day 4 Afternoon Lecture notebook](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day4afternoonLecture.ipynb)
 <br>[Day 4 Afternoon Game notebook](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day4afternoonGame.ipynb)
+-->
 
 <br>[Day 4 Morning Exercise Solution Using Nested Dictionary](https://github.com/nuitrcs/pythonBootcamp_4Day/blob/a040952d60ab5a34ddda37251200ff15389792cc/day4morning_dict_solution_john.ipynb)
 <br>[Day 4 Morning Exercise Solution Using Nested List (List of lists)](https://github.com/nuitrcs/pythonBootcamp_4Day/blob/main/day4Exercise_efren.ipynb)
