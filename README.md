@@ -22,5 +22,9 @@ Here are the Google Colab links for Day One of the Python Fundamentals Bootcamp,
 <br>[Day 4 Morning Exercise Solution Using Nested Dictionary](https://github.com/nuitrcs/pythonBootcamp_4Day/blob/a040952d60ab5a34ddda37251200ff15389792cc/day4morning_dict_solution_john.ipynb)
 <br>[Day 4 Morning Exercise Solution Using Nested List (List of lists)](https://github.com/nuitrcs/pythonBootcamp_4Day/blob/main/day4Exercise_efren.ipynb)
 
-
-<br><br>[Link to upcoming workshops for you](https://www.it.northwestern.edu/departments/it-services-support/research/research-events.html)
+<hr>
+<b>Resources</b>
+<br><br><a href = "https://www.it.northwestern.edu/departments/it-services-support/research/research-events.html" target="_blank" rel="noopener noreferrer">Link to upcoming workshops</a>
+<br><br><a href = "https://services.northwestern.edu/TDClient/30/Portal/Requests/ServiceDet?ID=93" target = "_blank">Request a free consultation (only if you are Northwestern affiliated)</a>
+<br><br><a href = "https://github.com/nuitrcs/NextStepsInPython" target = "_blank">Next Steps in Python (1hr long, free workshops)</a>
+<br><br><a href = "https://www.it.northwestern.edu/departments/it-services-support/research/" target = "_blank">Subscribe to our mailing list!</a>
