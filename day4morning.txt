@@ -4,7 +4,7 @@ Write Python code that converts a given value from its original unit to a differ
 
 You will first need to make a New Notebook in Jupyter or Colab that runs Python 3.
 
-In today's folder, there is a file called conversionMeasures.csv. It contains lines of data. Each line has three pieces of data, separated by commas: unit 1, conversion factor, unit 2.
+You will need the file called conversionMeasures.csv. It contains lines of data. Each line has three pieces of data, separated by commas: unit 1, conversion factor, unit 2.
 
 The conversion equation for all of these lines is unit 1 x conversion factor = unit 2.
 
