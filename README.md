@@ -19,6 +19,7 @@ Here are the Google Colab links for Day One of the Python Fundamentals Bootcamp,
 * For the morning of Day 4, we will not be working in a lecture notebook.
 * Check out the [day4morning.txt](https://github.com/nuitrcs/pythonBootcamp_4Day/blob/main/day4morning.txt) file for instructions.
 * You can work on the problems [in this notebook.](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day4morning.ipynb)
+
 <br>[Day 4 - Exercise 1 Solutions](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/staff_solution/day4Exercise_efren.ipynb)
 <br>**Day 4 - Afternoon**
 <br>[Day 4 - Afternoon lecture](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day4Lecture_OOP.ipynb)
