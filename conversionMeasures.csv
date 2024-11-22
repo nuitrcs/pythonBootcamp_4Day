@@ -46,7 +46,7 @@ watt,1,joule/sec
 watt,107,ergs/sec
 watt,0.2389,cal/sec
 tablespoon,3,teaspoon
-tablespoons,1/4,cup
+tablespoons,.0625,cup
 cup,240,mL
 pint,475,mL
 ounce,28,gram
