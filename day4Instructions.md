@@ -1,4 +1,4 @@
-# Day 4 Morning Exercise – Conversion Calculator
+# Day 4 Exercise – Conversion Calculator
 
 ## Goal
 
