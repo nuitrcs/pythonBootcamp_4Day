@@ -15,7 +15,7 @@ Here are the Google Colab links for Day One of the Python Fundamentals Bootcamp,
 <br>[Day 3 “Quiz”](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day3Quiz.ipynb)
 <br>[Day 3 “Quiz” with answers](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day3Quiz-answers.ipynb)
 
-<br>[Day 4 - Exercise Instructions](https://github.com/nuitrcs/pythonBootcamp_4Day/blob/main/day4MorningInstructions.md)
+<br>[Day 4 - Exercise Instructions](https://github.com/nuitrcs/pythonBootcamp_4Day/blob/main/day4Instructions.md)
 <br>[Day 4 - Working Notebook](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/day4morning.ipynb)
 <br>[Day 4 - Exercise 1 Solutions](https://colab.research.google.com/github/nuitrcs/pythonBootcamp_4Day/blob/main/staff_solution/day4Exercise_efren.ipynb)
 
