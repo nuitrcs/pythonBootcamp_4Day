@@ -89,7 +89,7 @@ final_unit = "snail"
 
 * You might write out the steps you need to complete each task before you start coding
 * Take it one step at a time
-* We highly recommend trying to figure out what steps need to taken to finish each part. However,if you find yourself stuck with a problem, you can reference [`day4morning_help_detail.md`](https://github.com/nuitrcs/pythonBootcamp_4Day/blob/main/day4morning_help_detail.md), which contains more detailed steps
+* We highly recommend trying to figure out what steps need to taken to finish each part. However,if you find yourself stuck with a problem, you can reference [`day4morning_help_detail.md`](https://github.com/nuitrcs/pythonBootcamp_4Day/blob/main/day4morning_help_detailed.md), which contains more detailed steps
 
 ## Python notebook and script organization
 
